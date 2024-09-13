@@ -114,11 +114,11 @@ yrdsfikfhnlop22gqmo4szwdwowiqbs3soq5xzbvjiz2r2uplxkshaqd.onion <-- CyberChef hos
 
 lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion <-- OnionShare (share files via Tor) 
 
-nuljm5mf2lkkyj7otzkssuj36f77qjfijzjmxjtx7hnh52ny6jbb6gyd.onion <-- Turkish Market
+ju3cuiuokiuy3jpwppxecs27adoshzhjnony2pbgrvdsum5lis6x4xyd.onion <-- Turkish Market | Azerbaijan
 
-zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion <-- Turkish Wiki
+zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion <-- Turkish Wiki | All
 
-dydaofm5uefuulnzb63uh6coodgbxlgndk4eosoopbekebttkdxshlyY.onion <-- Turkish Forum
+dydaofm5uefuulnzb63uh6coodgbxlgndk4eosoopbekebttkdxshlyY.onion <-- Turkish Forum 
 
 xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion <- TORCH one of the oldest search engines around on TOR
 
