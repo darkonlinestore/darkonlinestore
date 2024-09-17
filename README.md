@@ -1,4 +1,4 @@
-U P D A T E   D A T E   2 1 - 0 8 - 2 4 
+U P D A T E   D A T E   18 - 0 9 - 2 4 
 
 [connect25lovylmq.onion <-- blackbook a privacy based social network 
 
@@ -114,7 +114,7 @@ yrdsfikfhnlop22gqmo4szwdwowiqbs3soq5xzbvjiz2r2uplxkshaqd.onion <-- CyberChef hos
 
 lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion <-- OnionShare (share files via Tor) 
 
-ju3cuiuokiuy3jpwppxecs27adoshzhjnony2pbgrvdsum5lis6x4xyd.onion <-- Turkish Market | Azerbaijan
+2mu5eibr73kngfgajdd665jlznvvjfflr7hz45sqlyofpnmujf3vuoyd.onion <-- Turkish Market | Azerbaijan
 
 zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion <-- Turkish Wiki | All
 
@@ -123,3 +123,7 @@ dydaofm5uefuulnzb63uh6coodgbxlgndk4eosoopbekebttkdxshlyY.onion <-- Turkish Forum
 xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion <- TORCH one of the oldest search engines around on TOR
 
 kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion <-- Imperial Library of Trantor (good place to find free Ebooks))
+
+nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion <---- Comic Book library (free duh)
+
+darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion <-- The latest Tor news as it happens 
